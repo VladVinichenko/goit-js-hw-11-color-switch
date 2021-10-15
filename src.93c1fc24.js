@@ -5,4 +5,4 @@ const t={body:document.querySelector("body"),start:document.querySelector('[data
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/color_switcher.js");
 },{"./sass/main.scss":"clu1","./js/color_switcher.js":"XbrD"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-color-switch/src.6b76b56e.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.93c1fc24.js.map
