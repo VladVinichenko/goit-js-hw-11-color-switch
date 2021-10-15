@@ -42,9 +42,9 @@
     outline: none;
   }
   &:disabled {
-    background-color: silver;
+    background-color: rgb(110, 110, 110);
     cursor: auto;
-    color: black;
+    color: rgb(61, 61, 61);
   }
 }
 
